@@ -40,5 +40,5 @@ This project aims to establish an official website for a water meter manufacturi
 ### Clone the Project
 
 ```bash
-git clone https://github.com/FatherSword/meterwebsite-of-SuperNiu.git
+git clone https://github.com/FatherSword/meterwebsite-SuperNiu.git
 cd meterwebsite-of-SuperNiu

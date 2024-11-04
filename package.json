@@ -1,0 +1,31 @@
+{
+  "name": "meters_profes",
+  "version": "1.0.0",
+  "description": "The website for SuperNiu",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatherSword/meterwebsite-SuperNiu.git"
+  },
+  "keywords": [
+    "SuperNiu",
+    "Product",
+    "Website"
+  ],
+  "author": "Sword C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FatherSword/meterwebsite-SuperNiu/issues"
+  },
+  "homepage": "https://github.com/FatherSword/meterwebsite-SuperNiu#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
