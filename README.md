@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to establish an official website for a water meter manufacturing company with a significant market presence in Malaysia. The objective of the website is to enhance brand awareness, showcase our advanced water meters and related products, and provide better services for customers, distributors, and potential partners.
+This project aims to establish an official website for SuperNiu Technology Co., Ltd, with a significant market presence in Malaysia, the objective of the website is to enhance brand awareness, showcase our advanced water meters and related products, and provide better services for customers, distributors, and potential partners.
 
 ## Functional Requirements
 
@@ -32,13 +32,11 @@ This project aims to establish an official website for a water meter manufacturi
 
 - **Frontend**: Vue.js
 - **Backend**: Node.js, Express
-- **Database**: [Specify database such as MongoDB, MySQL, etc.]
+- **Database**: MySQL
 - **Other Tools**: Git, NPM
-
-## Installation and Startup
 
 ### Clone the Project
 
 ```bash
 git clone https://github.com/FatherSword/meterwebsite-SuperNiu.git
-cd meterwebsite-of-SuperNiu
+cd meterwebsite-SuperNiu
